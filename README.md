@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SofiyaAnsari
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects related to HTML, CSS,Javascript, React and Node.js
 - 📫 How to reach me ... email me at sofiyaansari972@gmail.com
